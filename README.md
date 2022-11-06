@@ -96,13 +96,16 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 <summary><b> ‍📈 Statistiques</b></summary><br>
 
 <p align="center">
-  Visitor count<br>
+    <a href="https://github.com/Th3o-D?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" />
+    </a>
 </p>
 
 <p align="center">
-  Visitor count<br>
+    <a href="https://github.com/Th3o-D?tab=repositories">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450" />
+    </a>
 </p>
 
 
