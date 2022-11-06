@@ -95,12 +95,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450)](https://github.com/Th3o-D?tab=repositories)
 
-https://placehold.co/15x15/006aff/006aff.png
-
-![#f03ceee15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03ceee15`
-![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
-
 <span style="color:#006aff"><b>Contributions</b></span>
 
 <a href=#><img src="images/svg/snake_contributions.svg"></a>
