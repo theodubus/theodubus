@@ -76,18 +76,26 @@
 
 </details>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<details>
+<summary><b>‍📈 Statistiques</b></summary><br>
+
+<p>Étudiant</p>
+
+<div style="display : flex; flex-direction : column; align-items:center">
+<a href="https://github.com/Th3o-D?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=500" />
+<br>
+<a href="https://github.com/Th3o-D?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450" />
 </a>
 
-[![Th3o-D's github stats](https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500)](https://github.com/Th3o-D?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=500)](https://github.com/Th3o-D?tab=repositories)
-
 <a href=#><img src="images/svg/snake_contributions.svg"></a>
+</div>
+
+</details>
+
+
 
 <p align="center">
   Visitor count<br>
