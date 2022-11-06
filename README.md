@@ -77,11 +77,11 @@
 </details>
 
 <details>
-<summary><b>‍📈 Statistiques</b></summary><br>
+<summary><b>‍:chart_with_upwards_trend: Statistiques</b></summary><br>
 
 <p>Étudiant</p>
 
-<div style="display : flex; flex-direction : column; align-items:center">
+<div style="width: 100%; display : flex; flex-direction : column; align-items:center">
 <a href="https://github.com/Th3o-D?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" />
 </a>
