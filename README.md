@@ -43,14 +43,14 @@
   <img src="tk2.png" title="tkinter" alt="tkinter" width="40" height="40"/>&nbsp;
 
 
-  https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent
-
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact)
-
-
 
 
 </div>
+
+
+https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact)
 
 <a href=#><img src="snake_contributions.svg"></a>
 
