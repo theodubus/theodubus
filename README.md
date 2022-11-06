@@ -118,13 +118,6 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 </details>
 
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=aqzsedrf&left_color=gray&right_color=blue" height="30"/>
-</p>
-
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Th3o-D/count.svg" />
-</p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=aqzsedrf&left_color=gray&right_color=blue" height="30"/>
+<a href="https://github.com/Th3o-D" alt="https://github.com/Th3o-D"><img style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREE%20PAR&message=Th3o-D&color=1182c2"></a>
+<a href="lien" alt="lien"><img style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=1182c2"></a>
