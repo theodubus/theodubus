@@ -109,7 +109,7 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 
 <hr>
 
-### <p align="center" style="font-size: 1.8em; font-weight: bold" >Contributions</p>
+### <p align="center">Contributions</p>
 
 
 <img src="images/svg/snake_contributions.svg">
@@ -120,7 +120,7 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 
 <p align="center">
   Visitor count<br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=aqzsedrf&left_color=gray&right_color=blue" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=aqzsedrf&left_color=gray&right_color=blue" height="30"/>
 </p>
 
 
@@ -128,7 +128,3 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Th3o-D/count.svg" />
 </p>
-
-
-<a href="https://github.com/Th3o-D" alt="https://github.com/Th3o-D"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREE%20PAR&message=Th3o-D&color=00AAFF"></a>
-<a href="lien" alt="lien"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=00AAFF"></a>
