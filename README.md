@@ -5,6 +5,8 @@
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
 </table>
 
+
+
 <details>
   <summary><b>👨‍💻 À propos de moi</b></summary><br>
 
@@ -80,9 +82,8 @@
 <details>
 <summary><b> ‍🗂️ Projets mis en avant</b></summary><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=gest_mdp)](https://github.com/Th3o-D/gest_mdp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=gest_mdp)](https://github.com/Th3o-D/gest_mdp)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=gest_mdp&theme=transparent)](https://github.com/Th3o-D/gest_mdp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=Scrapping&theme=transparent)](https://github.com/Th3o-D/Scrapping)
 
 </div>
 
