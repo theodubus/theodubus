@@ -108,7 +108,8 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 </p>
 
 <hr>
-<p align="center" style="font-size: 1.8em; font-weight: bold" >Contributions</p>
+
+### <p align="center" style="font-size: 1.8em; font-weight: bold" >Contributions</p>
 
 
 <img src="images/svg/snake_contributions.svg">
