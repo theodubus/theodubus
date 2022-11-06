@@ -5,31 +5,31 @@
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
 </table>
 
-<p>Welcome to my github page. Here you will find my personal projects and my school projects.</p>
+<p>Bienvenue sur ma page GitHub. Vous trouverez ici mes projets personnels et mes projets scolaires.</p>
 
 <details>
-  <summary><b>👨‍💻 About me</b></summary><br>
+  <summary><b>👨‍💻 À propos de moi</b></summary><br>
 
 <p>
-I am a computer student at the University of Technology in Compiègne, in 3ʳᵈ year.
-I am passionate about IT, I have been doing programming for several years.
-Recently, I started learning artificial intelligence
+Je suis étudiant en informatique à l'Université de Technologie de Compiègne, en 3ᵉ année.
+Je suis passionné par l'informatique, je fais de la programmation depuis plusieurs années, et
+depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle.
 </p>
 
 </details>
 
 
 <details>
-  <summary><b>🛠️ Languages and tools</b></summary><br>
+  <summary><b>🛠️ Langages et outils</b></summary><br>
 
 
-<p>Here are a few images of the tools that I use (hover your mouse over an image to see the name).</p>
+<p>Voici en quelques images une liste d'outils que j'utilise (survolez avec la souris pour voir le nom).</p>
 
 <div>
   <ul>
 
   <li>
-  Most used languages : <br>
+  Langages les plus utilisés : <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -49,7 +49,7 @@ Recently, I started learning artificial intelligence
   </li>
 
   <li>
-  System : <br>
+  Système : <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
@@ -65,7 +65,7 @@ Recently, I started learning artificial intelligence
   </li>
 
   <li>
-  Tools et libraries : <br>
+  Outils et librairies : <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
@@ -84,7 +84,7 @@ Recently, I started learning artificial intelligence
 
 
 <details>
-<summary><b> ‍🗂️ Highlight Projects</b></summary><br>
+<summary><b> ‍🗂️ Projets mis en avant</b></summary><br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=gest_mdp&theme=transparent)](https://github.com/Th3o-D/gest_mdp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=Scrapping&theme=transparent)](https://github.com/Th3o-D/Scrapping)
@@ -93,7 +93,7 @@ Recently, I started learning artificial intelligence
 </details>
 
 <details>
-<summary><b> ‍📊 Stats</b></summary><br>
+<summary><b> ‍📊 Statistiques</b></summary><br>
 
 <p align="center">
     <a href="https://github.com/Th3o-D?tab=repositories">
@@ -119,6 +119,6 @@ Recently, I started learning artificial intelligence
 
 <div align="right" style="display: flex">
     <img src="https://visitor-badge.glitch.me/badge?page_id=Th3o-D&left_color=gray&right_color=blue" height="20"/>
-    <a href="https://github.com/Th3o-D" alt="https://github.com/Th3o-D"><img height="20" style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Th3o-D&color=1182c2"></a>
+    <a href="https://github.com/Th3o-D" alt="https://github.com/Th3o-D"><img height="20" style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREE%20PAR&message=Th3o-D&color=1182c2"></a>
     <a href="LICENSE" alt="license"><img style="border-radius: 5px" height="20" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=1182c2"></a>
 </div>
