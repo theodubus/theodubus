@@ -91,6 +91,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450" />
 </a>
 
+[![Th3o-D's github stats](https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500)](https://github.com/Th3o-D?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450)](https://github.com/Th3o-D?tab=repositories)
+
 <a href=#><img src="images/svg/snake_contributions.svg"></a>
 </div>
 
