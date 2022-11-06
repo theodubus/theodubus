@@ -93,7 +93,7 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 </details>
 
 <details>
-<summary><b> ‍📈 Statistiques</b></summary><br>
+<summary><b> ‍📊 Statistiques</b></summary><br>
 
 <p align="center">
     <a href="https://github.com/Th3o-D?tab=repositories">
@@ -108,7 +108,7 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 </p>
 
 
-### Contributions
+<h2 align="center">Contributions</h2>
 
 <a href=#><img src="images/svg/snake_contributions.svg"></a>
 
