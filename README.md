@@ -50,7 +50,7 @@
 
 https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact)
 
 <a href=#><img src="snake_contributions.svg"></a>
 
