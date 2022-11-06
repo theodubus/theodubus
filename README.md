@@ -1,4 +1,4 @@
-<img src="header.svg"></img>
+<img src="images/svg/header.svg"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
@@ -39,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="40" height="40"/>&nbsp;
-  <img src="tk2.png" title="tkinter" alt="tkinter" width="40" height="40"/>&nbsp;
+  <img src="images/tk2.png" title="tkinter" alt="tkinter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact)](https://github.com/Th3o-D?tab=repositories)
 
-<a href=#><img src="snake_contributions.svg"></a>
+<a href=#><img src="images/svg/snake_contributions.svg"></a>
 
 <p align="center">
   Visitor count<br>
