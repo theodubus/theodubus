@@ -40,8 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="tk1.png" title="tkinter" alt="tkinter" width="40" height="50"/>&nbsp;
-  <img src="tk2.png" title="tkinter" alt="tkinter" width="40" height="40"/>&nbsp;
+  <img style="hover:bonjour" src="tk2.png" title="tkinter" alt="tkinter" width="40" height="40"/>&nbsp;
 
 
 
