@@ -111,8 +111,10 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 
 ### <p align="center">Contributions</p>
 
+<p align="center">
+  <img src="images/svg/snake_contributions.svg">
+</p>
 
-<img src="images/svg/snake_contributions.svg">
 <hr>
 
 </details>
