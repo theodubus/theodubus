@@ -1,4 +1,4 @@
-<img src="images/svg/header.svg"></img>
+<img src="images/svg/header-fr.svg"></img>
 
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
@@ -97,13 +97,13 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 
 <p align="center">
     <a href="https://github.com/Th3o-D?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" alt="Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500&custom_title=Satistiques%20de%20Th3o-D" alt="Stats"/>
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/Th3o-D?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450&custom_title=Langages%20les%20plus%20utilis%C3%A9s" alt="Languages" />
     </a>
 </p>
 
@@ -120,5 +120,5 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 <div align="right" style="display: flex">
     <img src="https://visitor-badge.glitch.me/badge?page_id=Th3o-D&left_color=gray&right_color=blue" height="20"/>
     <a href="https://github.com/Th3o-D" alt="https://github.com/Th3o-D"><img height="20" style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREE%20PAR&message=Th3o-D&color=1182c2"></a>
-    <a href="LICENSE" alt="license"><img style="border-radius: 5px" height="20" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=1182c2"></a>
+    <a href="LICENSE" alt="license"><img style="border-radius: 5px" height="20" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENCE&message=MIT&color=1182c2"></a>
 </div>
