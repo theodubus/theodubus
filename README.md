@@ -5,6 +5,20 @@
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
 </table>
 
+<details>
+  <summary><b>👨‍💻 À propos de moi</b></summary>
+
+  <p>Étudiant</p>
+
+</details>
+
+
+<details>
+  <summary><b>🛠️ Langages et outils</b></summary>
+
+
+<p>Voici en quelques images une liste d'outils que j'utilise (survolez avec la souris pour voir le nom).</p>
+
 <div>
   Langages les plus utilisés : <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -45,11 +59,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-
-
-
-
 </div>
+
+</details>
 
 [![Th3o-D's github stats](https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent)](https://github.com/Th3o-D?tab=repositories)
 
