@@ -95,6 +95,17 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 <details>
 <summary><b> ‍📈 Statistiques</b></summary><br>
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" />
+</p>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450" />
+</p>
+
+
 [![Th3o-D's github stats](https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500)](https://github.com/Th3o-D?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450)](https://github.com/Th3o-D?tab=repositories)
