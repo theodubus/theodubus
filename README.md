@@ -5,12 +5,16 @@
  <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
 </table>
 
-
+<p>Bienvenue sur ma page GitHub. Vous trouverez ici mes projets personnels et mes projets scolaires.</p>
 
 <details>
   <summary><b>👨‍💻 À propos de moi</b></summary><br>
 
-  <p>Étudiant</p>
+<p>
+Je suis étudiant en informatique à l'Université de Technologie de Compiègne, en 3ᵉ année. 
+Je suis passionné par l'informatique, je fais de la programmation depuis plusieurs années, et
+depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle.
+</p>
 
 </details>
 
@@ -95,16 +99,24 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450)](https://github.com/Th3o-D?tab=repositories)
 
-<span style="color:#006aff"><b>Contributions</b></span>
+### Contributions
 
 <a href=#><img src="images/svg/snake_contributions.svg"></a>
 
-
 </details>
 
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=aqzsedrf&left_color=gray&right_color=blue" />
+</p>
 
 
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Th3o-D/count.svg" />
 </p>
+
+
+<a href="https://github.com/Th3o-D" alt="https://github.com/Th3o-D"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREE%20PAR&message=Th3o-D&color=00AAFF"></a>
+<a href="lien" alt="lien"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=00AAFF"></a>
