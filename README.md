@@ -110,7 +110,9 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 
 <h2 align="center">Contributions</h2>
 
+<hr>
 <a href=#><img src="images/svg/snake_contributions.svg"></a>
+<hr>
 
 </details>
 
