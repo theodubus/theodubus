@@ -85,21 +85,21 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=gest_mdp&theme=transparent)](https://github.com/Th3o-D/gest_mdp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=Scrapping&theme=transparent)](https://github.com/Th3o-D/Scrapping)
 
-</div>
 
 </details>
 
 <details>
 <summary><b> ‍📈 Statistiques</b></summary><br>
 
-<p>Étudiant</p>
 
 [![Th3o-D's github stats](https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500)](https://github.com/Th3o-D?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450)](https://github.com/Th3o-D?tab=repositories)
 
+### <span style="color:#006aff"><b>Contributions</b></span>
+
 <a href=#><img src="images/svg/snake_contributions.svg"></a>
-</div>
+
 
 </details>
 
