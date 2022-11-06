@@ -83,7 +83,7 @@
 <p>Étudiant</p>
 
 <div style="width: 100%; display : flex; flex-direction : row;">
-<a href="https://github.com/Th3o-D?tab=repositories">
+<a href="https://github.com/Th3o-D?tab=repositories" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" />
 </a>
 <br>
