@@ -97,21 +97,16 @@ depuis peu je m'intéresse et essaye de me former à l'Intelligence Artificielle
 
 <p align="center">
     <a href="https://github.com/Th3o-D?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" alt="Stats"/>
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/Th3o-D?tab=repositories">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450" alt="Languages" />
     </a>
 </p>
 
-
-[![Th3o-D's github stats](https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500)](https://github.com/Th3o-D?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450)](https://github.com/Th3o-D?tab=repositories)
 
 ### Contributions
 
