@@ -111,8 +111,11 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 
 ### <p align="center">Contributions</p>
 
+
 <p align="center">
-  <img src="images/svg/snake_contributions.svg">
+    <a href="https://github.com/Th3o-D?tab=repositories">
+        <img src="images/svg/snake_contributions.svg" alt="Contributions" />
+    </a>
 </p>
 
 <hr>
