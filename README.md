@@ -80,22 +80,10 @@
 <details>
 <summary><b> ‍🗂️ Projets mis en avant</b></summary><br>
 
-<p>Étudiant</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=gest_mdp)](https://github.com/Th3o-D/gest_mdp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=gest_mdp)](https://github.com/Th3o-D/gest_mdp)
 
-<div style="width: 100%; display : flex; flex-direction : row;">
-<a href="https://github.com/Th3o-D?tab=repositories" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" />
-</a>
-<br>
-<a href="https://github.com/Th3o-D?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450" />
-</a>
 
-[![Th3o-D's github stats](https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500)](https://github.com/Th3o-D?tab=repositories)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450)](https://github.com/Th3o-D?tab=repositories)
-
-<a href=#><img src="images/svg/snake_contributions.svg"></a>
 </div>
 
 </details>
@@ -105,14 +93,9 @@
 
 <p>Étudiant</p>
 
-<div style="width: 100%; display : flex; flex-direction : column; align-items:center">
-<a href="https://github.com/Th3o-D?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500" />
-</a>
-<br>
-<a href="https://github.com/Th3o-D?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450" />
-</a>
+[![Th3o-D's github stats](https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500)](https://github.com/Th3o-D?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=javascript,jupyter%20notebook&layout=compact&card_width=450)](https://github.com/Th3o-D?tab=repositories)
 
 <a href=#><img src="images/svg/snake_contributions.svg"></a>
 </div>
