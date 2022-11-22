@@ -10,11 +10,11 @@
     "growingAnimation": true,
     "saturation": "50%",
     "contribLightness": [
+      "50%",
       "60%",
+      "65%",
       "70%",
-      "75%",
-      "80%",
-      "90%"
+      "80%"
     ],
     "duration": "10s",
     "hueRatio": -7
@@ -30,11 +30,11 @@
     "growingAnimation": true,
     "saturation": "50%",
     "contribLightness": [
-      "20%",
       "30%",
-      "35%",
       "40%",
-      "50%"
+      "45%",
+      "50%",
+      "60%"
     ],
     "duration": "10s",
     "hueRatio": -7
