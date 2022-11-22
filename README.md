@@ -114,7 +114,8 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 ### <p align="center">Contributions</p>
 
 
-<img src="images/svg/snake_contributions.svg">
+![snake light](https://github.com/Th3o-D/Th3o-D/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake dark](https://github.com/Th3o-D/Th3o-D/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <hr>
 
