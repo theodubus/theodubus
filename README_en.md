@@ -114,8 +114,9 @@ Recently, I started learning artificial intelligence
 
 ### <p align="center">Contributions</p>
 
+![snake light](https://github.com/Th3o-D/Th3o-D/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake dark](https://github.com/Th3o-D/Th3o-D/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<img src="images/svg/snake_contributions.svg">
 <hr>
 
 </details>
