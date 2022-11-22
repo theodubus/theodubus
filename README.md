@@ -117,6 +117,9 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 ![snake light](https://github.com/Th3o-D/Th3o-D/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![snake dark](https://github.com/Th3o-D/Th3o-D/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+![contribs light](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+![contribs dark](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
 <hr>
 
 </details>
