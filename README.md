@@ -106,7 +106,7 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 
 <p align="center">
     <a href="https://github.com/Th3o-D?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&layout=compact&card_width=450&custom_title=Langages%20les%20plus%20utilis%C3%A9s" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=jupyter%20notebook&layout=compact&card_width=450&custom_title=Langages%20les%20plus%20utilis%C3%A9s&langs_count=6" alt="Languages" />
     </a>
 </p>
 

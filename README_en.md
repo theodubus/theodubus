@@ -107,7 +107,7 @@ Recently, I started learning artificial intelligence
 
 <p align="center">
     <a href="https://github.com/Th3o-D?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&layout=compact&card_width=450" alt="Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=jupyter%20notebook&layout=compact&card_width=450&langs_count=6" alt="Languages" />
     </a>
 </p>
 
