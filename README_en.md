@@ -115,8 +115,8 @@ Recently, I started learning artificial intelligence
 
 ### <p align="center">Contributions</p>
 
-![contribs light](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
-![contribs dark](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+![contribs light](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only)
+![contribs dark](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only)
 
 <hr>
 
