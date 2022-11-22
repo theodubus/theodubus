@@ -121,6 +121,9 @@ Recently, I started learning artificial intelligence
 
 </details>
 
+![contribs light](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
+![contribs dark](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+
 <div align="right" style="display: flex">
     <img src="https://visitor-badge.glitch.me/badge?page_id=Th3o-D&left_color=gray&right_color=blue" height="20"/>
     <a href="https://github.com/Th3o-D" alt="https://github.com/Th3o-D"><img height="20" style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Th3o-D&color=1182c2"></a>
