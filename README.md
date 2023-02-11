@@ -5,6 +5,9 @@
   <tr><td><a href="README_en.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
+> [!Info]
+> test
+
 <p>Bienvenue sur ma page GitHub. Vous trouverez ici mes projets personnels et mes projets scolaires.</p>
 
 <details>
