@@ -95,7 +95,7 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=markdown-tree&theme=transparent)](https://github.com/Th3o-D/markdown-tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=Scrapping&theme=transparent)](https://github.com/Th3o-D/Scrapping)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=game_of_life&theme=transparent)](https://github.com/Th3o-D/game_of_life)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=calculatrice&theme=transparent)](https://github.com/Th3o-D/calculatrice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=Machi-Koro&theme=transparent)](https://github.com/Th3o-D/Machi-Koro)
 
 </details>
 
