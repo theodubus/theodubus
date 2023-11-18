@@ -144,7 +144,7 @@ Recently, I started learning artificial intelligence
 ![snake dark](https://github.com/Th3o-D/Th3o-D/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <div align="right" style="display: flex">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Th3o-D&left_color=gray&right_color=blue" height="20"/>
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTh3o-D&countColor=%231182c2" height="20"/>
     <a href="https://github.com/Th3o-D" alt="https://github.com/Th3o-D"><img height="20" style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Th3o-D&color=1182c2"></a>
     <a href="LICENSE" alt="license"><img style="border-radius: 5px" height="20" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=1182c2"></a>
 </div>
