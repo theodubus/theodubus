@@ -183,7 +183,7 @@ g.typingUnderline rect {
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="1.5">
   <textPath href="#nameTyping" >
-      Th3o-D
+      Theo D
   </textPath>
 </text>
 
@@ -196,10 +196,10 @@ g.typingUnderline rect {
            dur="5.8s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="36.8" font-family="Helvetica" font-size=".12em" fill="white"
+<text x="32" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" >
   <textPath href="#descriptionTyping" >
-      Coding &amp; Development
+      Data Science
   </textPath>
 </text>
 
