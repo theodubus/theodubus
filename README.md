@@ -108,7 +108,7 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=markdown-tree&theme=transparent)](https://github.com/theodubus/markdown-tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Scrapping&theme=transparent)](https://github.com/theodubus/Scrapping)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=game_of_life&theme=transparent)](https://github.com/theodubus/game_of_life)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Machi-Koro&theme=transparent)](https://github.com/theodubus/Machi-Koro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Steganography&theme=transparent)](https://github.com/theodubus/Steganography)
 
 </details>
 
