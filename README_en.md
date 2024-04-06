@@ -133,15 +133,15 @@ Recently, I started learning artificial intelligence
 
 ### <p align="center">Contributions</p>
 
-![contribs light](https://github.com/theodubus/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only)
-![contribs dark](https://github.com/theodubus/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only)
+![contribs light](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only)
+![contribs dark](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only)
 
 <hr>
 
 </details>
 
-![snake light](https://github.com/theodubus/Th3o-D/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake dark](https://github.com/theodubus/Th3o-D/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake light](https://github.com/theodubus/theodubus/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake dark](https://github.com/theodubus/theodubus/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <div align="right" style="display: flex">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTh3o-D&countColor=%231182c2" height="20"/>

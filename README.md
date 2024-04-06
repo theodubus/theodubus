@@ -131,16 +131,16 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 
 ### <p align="center">Contributions</p>
 
-![contribs light](https://github.com/theodubus/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only)
-![contribs dark](https://github.com/theodubus/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only)
+![contribs light](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only)
+![contribs dark](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only)
 
 
 <hr>
 
 </details>
 
-![snake light](https://github.com/theodubus/Th3o-D/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake dark](https://github.com/theodubus/Th3o-D/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake light](https://github.com/theodubus/theodubus/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake dark](https://github.com/theodubus/theodubus/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 <div align="right" style="display: flex">
