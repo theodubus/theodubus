@@ -103,12 +103,12 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 <details>
 <summary><b> ‍🗂️ Projets mis en avant</b></summary><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=gest_mdp&theme=transparent)](https://github.com/Th3o-D/gest_mdp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=pdf2book&theme=transparent)](https://github.com/Th3o-D/pdf2book)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=markdown-tree&theme=transparent)](https://github.com/Th3o-D/markdown-tree)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=Scrapping&theme=transparent)](https://github.com/Th3o-D/Scrapping)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=game_of_life&theme=transparent)](https://github.com/Th3o-D/game_of_life)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Th3o-D&repo=Machi-Koro&theme=transparent)](https://github.com/Th3o-D/Machi-Koro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=gest_mdp&theme=transparent)](https://github.com/theodubus/gest_mdp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=pdf2book&theme=transparent)](https://github.com/theodubus/pdf2book)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=markdown-tree&theme=transparent)](https://github.com/theodubus/markdown-tree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Scrapping&theme=transparent)](https://github.com/theodubus/Scrapping)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=game_of_life&theme=transparent)](https://github.com/theodubus/game_of_life)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Machi-Koro&theme=transparent)](https://github.com/theodubus/Machi-Koro)
 
 </details>
 
@@ -116,14 +116,14 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 <summary><b> ‍📊 Statistiques</b></summary><br>
 
 <p align="center">
-    <a href="https://github.com/Th3o-D?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api?username=Th3o-D&show_icons=true&theme=transparent&card_width=500&custom_title=Satistiques%20de%20Th3o-D" alt="Stats"/>
+    <a href="https://github.com/theodubus?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api?username=theodubus&show_icons=true&theme=transparent&card_width=500&custom_title=Satistiques%20de%20theodubus" alt="Stats"/>
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/Th3o-D?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3o-D&theme=transparent&hide=jupyter%20notebook&layout=compact&card_width=450&custom_title=Langages%20les%20plus%20utilis%C3%A9s&langs_count=6" alt="Languages" />
+    <a href="https://github.com/theodubus?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodubus&theme=transparent&hide=jupyter%20notebook&layout=compact&card_width=450&custom_title=Langages%20les%20plus%20utilis%C3%A9s&langs_count=6" alt="Languages" />
     </a>
 </p>
 
@@ -131,20 +131,20 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 
 ### <p align="center">Contributions</p>
 
-![contribs light](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only)
-![contribs dark](https://github.com/Th3o-D/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only)
+![contribs light](https://github.com/theodubus/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only)
+![contribs dark](https://github.com/theodubus/Th3o-D/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only)
 
 
 <hr>
 
 </details>
 
-![snake light](https://github.com/Th3o-D/Th3o-D/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake dark](https://github.com/Th3o-D/Th3o-D/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake light](https://github.com/theodubus/Th3o-D/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake dark](https://github.com/theodubus/Th3o-D/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 <div align="right" style="display: flex">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTh3o-D&countColor=%231182c2" height="20"/>
-    <a href="https://github.com/Th3o-D" alt="https://github.com/Th3o-D"><img height="20" style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREE%20PAR&message=Th3o-D&color=1182c2"></a>
+    <a href="https://github.com/theodubus" alt="https://github.com/theodubus"><img height="20" style="border-radius: 5px" src="https://img.shields.io/static/v1?style=for-the-badge&label=CREE%20PAR&message=theo d&color=1182c2"></a>
     <a href="LICENSE" alt="license"><img style="border-radius: 5px" height="20" src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENCE&message=MIT&color=1182c2"></a>
 </div>
