@@ -11,9 +11,7 @@
   <summary><b>👨‍💻 About me</b></summary><br>
 
 <p>
-I am a computer student at the University of Technology in Compiègne, in 3ʳᵈ year.
-I am passionate about IT, I have been doing programming for several years.
-Recently, I started learning artificial intelligence
+I am a student in Data Science at the University of Technology in Compiègne, in 4ᵗʰ year.
 </p>
 
 </details>
@@ -108,7 +106,7 @@ Recently, I started learning artificial intelligence
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=pdf2book&theme=transparent)](https://github.com/theodubus/pdf2book)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=markdown-tree&theme=transparent)](https://github.com/theodubus/markdown-tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Scrapping&theme=transparent)](https://github.com/theodubus/Scrapping)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=game_of_life&theme=transparent)](https://github.com/theodubus/game_of_life)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=SY32&theme=transparent)](https://github.com/theodubus/SY32)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Steganography&theme=transparent)](https://github.com/theodubus/Steganography)
 
 
@@ -117,11 +115,11 @@ Recently, I started learning artificial intelligence
 <details>
 <summary><b> ‍📊 Stats</b></summary><br>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/theodubus?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api?username=theodubus&show_icons=true&theme=transparent&card_width=500" alt="Stats"/>
     </a>
-</p>
+</p> -->
 
 <p align="center">
     <a href="https://github.com/theodubus?tab=repositories">
@@ -131,10 +129,10 @@ Recently, I started learning artificial intelligence
 
 <hr>
 
-### <p align="center">Contributions</p>
+<!-- ### <p align="center">Contributions</p> -->
 
-![contribs light](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only)
-![contribs dark](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only)
+<!-- ![contribs light](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only) -->
+<!-- ![contribs dark](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only) -->
 
 <hr>
 

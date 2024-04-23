@@ -11,9 +11,7 @@
   <summary><b>👨‍💻 À propos de moi</b></summary><br>
 
 <p>
-Je suis étudiant en informatique à l'Université de Technologie de Compiègne, en 3ᵉ année.
-Je suis passionné par l'informatique, je fais de la programmation depuis plusieurs années, et
-depuis peu, je me forme à l'Intelligence Artificielle.
+Je suis étudiant en Science des Données à l'Université de Technologie de Compiègne, en 4ᵉ année.
 </p>
 
 </details>
@@ -107,7 +105,7 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=pdf2book&theme=transparent)](https://github.com/theodubus/pdf2book)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=markdown-tree&theme=transparent)](https://github.com/theodubus/markdown-tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Scrapping&theme=transparent)](https://github.com/theodubus/Scrapping)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=game_of_life&theme=transparent)](https://github.com/theodubus/game_of_life)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=SY32&theme=transparent)](https://github.com/theodubus/SY32)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Steganography&theme=transparent)](https://github.com/theodubus/Steganography)
 
 </details>
@@ -115,11 +113,11 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 <details>
 <summary><b> ‍📊 Statistiques</b></summary><br>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/theodubus?tab=repositories">
       <img src="https://github-readme-stats.vercel.app/api?username=theodubus&show_icons=true&theme=transparent&card_width=500&custom_title=Satistiques%20de%20theodubus" alt="Stats"/>
     </a>
-</p>
+</p> -->
 
 <p align="center">
     <a href="https://github.com/theodubus?tab=repositories">
@@ -129,10 +127,10 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 
 <hr>
 
-### <p align="center">Contributions</p>
+<!-- ### <p align="center">Contributions</p> -->
 
-![contribs light](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only)
-![contribs dark](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only)
+<!-- ![contribs light](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow.svg#gh-light-mode-only) -->
+<!-- ![contribs dark](https://github.com/theodubus/theodubus/blob/main/profile-3d-contrib/profile-custom-rainbow-dark.svg#gh-dark-mode-only) -->
 
 
 <hr>
