@@ -139,8 +139,8 @@ depuis peu, je me forme à l'Intelligence Artificielle.
 
 </details>
 
-![snake light](https://github.com/theodubus/theodubus/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![snake dark](https://github.com/theodubus/theodubus/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!-- ![snake light](https://github.com/theodubus/theodubus/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only) -->
+<!-- ![snake dark](https://github.com/theodubus/theodubus/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
 
 
 <div align="right" style="display: flex">
