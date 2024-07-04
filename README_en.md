@@ -106,7 +106,7 @@ I am a student in Data Science at the University of Technology in Compiègne, in
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=pdf2book&theme=transparent)](https://github.com/theodubus/pdf2book)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=markdown-tree&theme=transparent)](https://github.com/theodubus/markdown-tree)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Scrapping&theme=transparent)](https://github.com/theodubus/Scrapping)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=SY32&theme=transparent)](https://github.com/theodubus/SY32)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=UTC-SY32&theme=transparent)](https://github.com/theodubus/SY32)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Steganography&theme=transparent)](https://github.com/theodubus/Steganography)
 
 
