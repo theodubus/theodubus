@@ -11,7 +11,7 @@
   <summary><b>👨‍💻 À propos de moi</b></summary><br>
 
 <p>
-Je suis étudiant en Science des Données à l'Université de Technologie de Compiègne, en 4ᵉ année.
+Je suis étudiant en Science des Données à l'Université de Technologie de Compiègne, en 5ᵉ année.
 </p>
 
 </details>

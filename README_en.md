@@ -11,7 +11,7 @@
   <summary><b>👨‍💻 About me</b></summary><br>
 
 <p>
-I am a student in Data Science at the University of Technology in Compiègne, in 4ᵗʰ year.
+I am a student in Data Science at the University of Technology in Compiègne, in 5ᵗʰ year.
 </p>
 
 </details>
