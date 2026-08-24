@@ -5,14 +5,30 @@
   <tr><td><a href="README_en.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
 </table>
 
-<p>Welcome to my github page. Here you will find my personal projects and my school projects.</p>
+<p>Welcome to my github page. Here you will find my personal projects, along with projects made during my studies.</p>
 
 <details>
   <summary><b>👨‍💻 About me</b></summary><br>
 
 <p>
-I am a student in Data Science at the University of Technology in Compiègne, in 5ᵗʰ year.
+AI and data science engineer, trained at the Université de Technologie de Compiègne and Polytechnique Montréal.
+I mostly work in Python, on machine learning, deep learning and LLMs.
 </p>
+
+</details>
+
+
+<details open>
+<summary><b> ‍🗂️ Highlight Projects</b></summary><br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=RedactPDF&theme=transparent)](https://github.com/theodubus/RedactPDF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=pdf2book&theme=transparent)](https://github.com/theodubus/pdf2book)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=gest_mdp&theme=transparent)](https://github.com/theodubus/gest_mdp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=turtle_survival&theme=transparent)](https://github.com/theodubus/turtle_survival)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=UTC-TX-RL&theme=transparent)](https://github.com/theodubus/UTC-TX-RL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=markdown-tree&theme=transparent)](https://github.com/theodubus/markdown-tree)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Steganography&theme=transparent)](https://github.com/theodubus/Steganography)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=UTC-SY32&theme=transparent)](https://github.com/theodubus/UTC-SY32)
 
 </details>
 
@@ -98,19 +114,6 @@ I am a student in Data Science at the University of Technology in Compiègne, in
 
 </details>
 
-
-<details>
-<summary><b> ‍🗂️ Highlight Projects</b></summary><br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=gest_mdp&theme=transparent)](https://github.com/theodubus/gest_mdp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=pdf2book&theme=transparent)](https://github.com/theodubus/pdf2book)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=markdown-tree&theme=transparent)](https://github.com/theodubus/markdown-tree)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Scrapping&theme=transparent)](https://github.com/theodubus/Scrapping)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=UTC-SY32&theme=transparent)](https://github.com/theodubus/SY32)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theodubus&repo=Steganography&theme=transparent)](https://github.com/theodubus/Steganography)
-
-
-</details>
 
 <details>
 <summary><b> ‍📊 Stats</b></summary><br>
