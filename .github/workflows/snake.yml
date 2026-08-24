@@ -26,6 +26,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # contributionsCollection ne renvoie rien au github-actions[bot] :
+          # il faut un token personnel (scope read:user) dans le secret CONTRIB_TOKEN
+          github_token: ${{ secrets.CONTRIB_TOKEN || github.token }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
